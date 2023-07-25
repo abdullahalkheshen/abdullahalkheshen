@@ -1,8 +1,9 @@
 <!--
 **abdullahalkheshen/abdullahalkheshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+https://github.com/abdullahalkheshen/abdullahalkheshen/blob/main/Modern%20Professional%20Software%20Engineer%20LinkedIn%20Banner.png?raw=true
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="185" src="https://raw.githubusercontent.com/abdullahalkheshen/abdullahalkheshen/c50ab2d39b2915a8c0386d27891863249fa9ca7a/Modern%20Professional%20Software%20Engineer%20LinkedIn%20Banner.png"  />
+<img height="185" src="https://raw.githubusercontent.com/abdullahalkheshen/abdullahalkheshen/main/Modern%20Professional%20Software%20Engineer%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
