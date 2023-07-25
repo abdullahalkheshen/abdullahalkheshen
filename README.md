@@ -39,12 +39,8 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<h1> I code with .. </h1>
-
-###
-###
 <br>
+<h2> I code with .. </h2>
 <h3 align="left">Programming Languages</h3>
 
 ###
