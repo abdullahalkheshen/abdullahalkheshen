@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <img height="185" src="https://raw.githubusercontent.com/abdullahalkheshen/abdullahalkheshen/main/Modern%20Professional%20Software%20Engineer%20LinkedIn%20Banner.png"  />
 </div>
 
-###
-
-<h2> I code with .. </h2>
-
-###
 
 ###
 
@@ -43,7 +38,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+###
 
+<h1> I code with .. </h1>
+
+###
 ###
 <br>
 <h3 align="left">Programming Languages</h3>
