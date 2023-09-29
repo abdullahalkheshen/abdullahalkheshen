@@ -143,7 +143,5 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
 <br> <br>
 <h2 align="center">Contributions! 🐍</h2>
-###
