@@ -147,5 +147,3 @@ Here are some ideas to get you started:
 <br> <br>
 <h2 align="center">Contributions! 🐍</h2>
 ###
-
-###
