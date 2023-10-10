@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">Hi 👋<br>I'm Abdullah Al-Kheshen from Lebanon.<br>I'm a life-long Learner and a Software / Hardware Engineer.</h3>
+<h3 align="center">Hi 👋<br>I'm Abdullah Al-Kheshen, from Lebanon.<br>I'm a life-long Learner and a Software/Hardware Engineer.</h3>
 
 ###
-<br>
+
 <h3 align="center">Let's Connect 🫱🏻‍🫲🏻</h3>
 
 ###
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<br>
+
 <h2> I code with .. </h2>
 <h3 align="left">Programming Languages</h3>
 
@@ -142,6 +142,3 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-<br> <br>
-<h2 align="center">Contributions! 🐍</h2>
