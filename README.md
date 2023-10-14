@@ -33,9 +33,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/abdullahalkheshen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
   </a>
-  <a href="abdullahalkheshen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="30" alt="discord logo"  />
-  </a>
 </div>
 
 ###
